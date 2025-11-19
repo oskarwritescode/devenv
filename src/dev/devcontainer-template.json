@@ -1,6 +1,6 @@
 {
     "id": "dev",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "Develompent container base",
     "description": "A base image for development work with helix and opencode",
     "documentationURL": "https://github.com/oskarwritescode/devenv",
