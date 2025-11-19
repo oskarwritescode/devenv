@@ -6,4 +6,5 @@ RUN apt-get update \
   && rm -rf /var/lib/apt/lists/*
 
 # opencode
+USER vscode
 RUN curl -fsSL https://opencode.ai/install | bash
