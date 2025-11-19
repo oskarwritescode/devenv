@@ -1,0 +1,6 @@
+FROM mcr.microsoft.com/devcontainers/base:debian13
+
+RUN apt-get update \
+  && apt-get install -y --no-install-recommends hx \
+  && rm -rf /var/lib/apt/lists/*
+

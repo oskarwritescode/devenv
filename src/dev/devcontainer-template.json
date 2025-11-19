@@ -1,0 +1,11 @@
+{
+    "id": "dev",
+    "version": "1.0.0",
+    "name": "Develompent container base",
+    "description": "A base image for development work with helix and opencode",
+    "documentationURL": "https://github.com/oskarwritescode/devenv",
+    "licenseURL": "https://github.com/oskarwritescode/devenv/blob/main/LICENSE",
+    "platforms": [
+        "Any"
+    ]
+}
